@@ -59,7 +59,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null|{"x":0.0,"y":0.0,"z":0.0,"w":0.0}
     - fullName: VRCSDKBaseNetworking.__get_LocalPlayer__VRCSDKBaseVRCPlayerApi
       uid: 64f44582-dfee-43e0-bec5-f9afa7c3c562
-      position: {x: -21.302687, y: -12.992068}
+      position: {x: -14.003945, y: -16.49799}
       nodeUIDs: []
       flowUIDs: []
       nodeValues: []
@@ -108,7 +108,7 @@ MonoBehaviour:
         stringValue: 
     - fullName: UnityEngineTransform.__get_rotation__UnityEngineQuaternion
       uid: 6c9a282c-774a-4362-9865-54f9956cb7f0
-      position: {x: -6.7529864, y: 216.498}
+      position: {x: -10.49798, y: 222.85614}
       nodeUIDs:
       - fbb0e7eb-df2b-416c-b3aa-72a7269e9c22|0
       flowUIDs: []
